@@ -5,6 +5,14 @@
 - The students should be able to implement sorting algorithms, such as bubble sort and merge sort, in Python to organize data structures effectively.
 - The students should be able to comprehend practical scenarios where choosing the appropriate search and sorting algorithms is crucial for optimizing efficiency and performance in real-world applications.
 
+### In-place vs Out-of-Place Algos
+
+##### In-Place: 
+Modifys the orginal variable (modifies values within their place in memory). Example of in-place is .sort().
+
+##### Out-of-Place: 
+Returns a modified version of the original variable, without manipulating the original var. (copies and manipulates orignal values, to be stored in another place in memory)
+
 
 ### Searching Algorithms
 
